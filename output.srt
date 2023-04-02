@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:03,920
+ Okay, let's get...
+
+2
+00:00:03,920 --> 00:00:07,960
+ Okay, let's get started.
+
+3
+00:00:07,960 --> 00:00:11,680
+ So the first website I want to show you is Exorcism.
+
+4
+00:00:11,680 --> 00:00:17,040
+ My personal opinion is that this website is structured in a beginner friendly way.
+
+5
+00:00:17,040 --> 00:00:21,760
+ So if you want to deep your toes into the rust programming language, but you don't want
+
+6
+00:00:21,760 --> 00:00:27,440
+ to go too deep too fast, I would strongly recommend it.
+
+7
+00:00:27,440 --> 00:00:32,320
+ This website features a variety of different programming languages with which you can get
+
+8
+00:00:32,320 --> 00:00:33,720
+ started with.
+
+9
+00:00:33,720 --> 00:00:38,880
+ And personally I would say it has a really nice, clean UI.
+
+10
+00:00:38,880 --> 00:00:43,600
+ Maybe one of the issues that I found is that there aren't enough exercises for the rust
+
+11
+00:00:43,600 --> 00:00:45,360
+ programming language.
+
+12
+00:00:45,360 --> 00:00:48,160
+ But maybe that will be added and changed in the future.
+
